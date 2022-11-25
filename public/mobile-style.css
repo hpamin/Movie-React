@@ -1,0 +1,28 @@
+::-webkit-scrollbar{
+    background-color: antiquewhite ;
+}
+.MovieBox{
+    height: 300px !important;
+    margin: 0 10px !important;
+    text-align: center;
+}
+.titleMovie h2{
+    font-size: 25px !important;
+}
+nav{
+    padding: 0 40px !important;
+}
+.text h4{
+    padding: 0 !important;
+    font-size: 11px !important;
+}
+.CaptionBgPoster{
+    height: 100%;
+}
+.MovieImdb {
+    gap: 5px !important;
+}
+.GenreInfo h2, h3{
+    margin: 0 !important;
+}
+/***************************************************/
